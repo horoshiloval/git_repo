@@ -1,2 +1,2 @@
-print ('Goodbuy world');
-print ('Goodbuy everybody');
+print ('Goodbuy world')
+print ('Goodbuy everybody')
