@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 print ('Hello world')
 print ('Hello!')
 print ('Hello everybody!')
+print ('Hello my dear friend, nice to mett you!')
+print ('Glad to see you!')
+
